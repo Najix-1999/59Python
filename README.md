@@ -1,7 +1,3 @@
 # 59Python
 
-FirstVer
-
-SecondVer
-
-ThirdVer
+这是我关于Effective Python 59 SPECIFIC WAYS TO WRITE BETTER PYTHON的学习记录。
